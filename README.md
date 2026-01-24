@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Sam (Wang Ming-Shan) 👋
 
-<!--
-**SamWang-Dev/SamWang-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🇹🇼 Police Officer ➡️ Aspiring Java Engineer in Tokyo 🇯🇵**
 
-Here are some ideas to get you started:
+I am currently transitioning from a career in law enforcement to software engineering. My background has instilled in me a strong sense of discipline, responsibility, and problem-solving skills, which I am now applying to code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Paiza Skill Check (D/C Rank)** & **Java Silver Certification**
+- 🌱 I’m currently learning: **Java SE 21**, **Git/GitHub**, **IntelliJ IDEA**
+- 🥅 Goals: To become a professional Backend Engineer in Japan.
+- ⚡ Fun fact: I can debug code with the same patience I used on patrol duty! 👮‍♂️
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+</p>
+
+### 📈 GitHub Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamWang-Dev&show_icons=true&theme=radical)

@@ -18,7 +18,5 @@ I am currently transitioning from a career in law enforcement to software engine
 
 ### 📈 GitHub Stats
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamWang-Dev&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=SamWang-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>

@@ -15,8 +15,3 @@ I am currently transitioning from a career in law enforcement to software engine
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </p>
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamWang-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>

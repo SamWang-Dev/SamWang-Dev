@@ -17,4 +17,9 @@ I am currently transitioning from a career in law enforcement to software engine
 </p>
 
 ### 📈 GitHub Stats
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamWang-Dev&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamWang-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Sam's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamWang-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
